@@ -1,0 +1,78 @@
+:root {
+  /* Palette -- "ledger" theme: cool paper surface, ink text, indigo primary, emerald for money */
+  --color-ink: #14161f;
+  --color-ink-soft: #4b4f5e;
+  --color-paper: #f3f4f8;
+  --color-surface: #ffffff;
+  --color-border: #e3e5ee;
+  --color-border-strong: #cdd0dd;
+
+  --color-primary: #33417b;
+  --color-primary-dark: #232c58;
+  --color-primary-light: #eaecf9;
+
+  --color-accent: #1f9d74;
+  --color-accent-light: #e4f6ef;
+
+  --color-warning: #b8790a;
+  --color-warning-light: #fbeed2;
+
+  --color-danger: #c0392b;
+  --color-danger-light: #fbe6e3;
+
+  --color-info: #2f6f9e;
+  --color-info-light: #e5f0f8;
+
+  --font-display: "Space Grotesk", "Inter", sans-serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: "IBM Plex Mono", "SFMono-Regular", monospace;
+
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 18px;
+
+  --shadow-sm: 0 1px 2px rgba(20, 22, 31, 0.06);
+  --shadow-md: 0 6px 20px rgba(20, 22, 31, 0.08);
+  --shadow-lg: 0 16px 40px rgba(20, 22, 31, 0.12);
+
+  --sidebar-width: 260px;
+  --sidebar-width-collapsed: 76px;
+  --topbar-height: 68px;
+
+  --gradient-primary: linear-gradient(135deg, var(--color-primary), #5865c9);
+  --gradient-accent: linear-gradient(135deg, var(--color-accent), #37b98c);
+  --gradient-hero: linear-gradient(135deg, #232c58 0%, #33417b 45%, #1f9d74 120%);
+
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --color-ink: #eef0f7;
+  --color-ink-soft: #a7abc0;
+  --color-paper: #0f1117;
+  --color-surface: #171a24;
+  --color-border: #262b3a;
+  --color-border-strong: #363c4e;
+
+  --color-primary: #7c88e0;
+  --color-primary-dark: #5865c9;
+  --color-primary-light: #232849;
+
+  --color-accent: #34d399;
+  --color-accent-light: #123329;
+
+  --color-warning: #f2b84b;
+  --color-warning-light: #3a2e14;
+
+  --color-danger: #f0685c;
+  --color-danger-light: #3a1e1b;
+
+  --color-info: #63a8de;
+  --color-info-light: #172a3a;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.35);
+  --shadow-md: 0 6px 24px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 20px 50px rgba(0, 0, 0, 0.55);
+
+  color-scheme: dark;
+}

@@ -1,0 +1,67 @@
+ClientFlow Commercial Source-Code License
+==========================================
+
+Copyright (c) 2026. All rights reserved.
+
+This license governs the use of the ClientFlow source code ("the Software")
+provided to you ("the Buyer") as a source-code template.
+
+1. GRANT OF LICENSE
+
+   Subject to the terms below, the Buyer is granted a non-exclusive,
+   worldwide, non-transferable license to:
+
+   a) Use the Software for personal, internal, or client projects.
+   b) Use the Software as the foundation of a commercial product or
+      service, including software sold or licensed to end users.
+   c) Modify, extend, and rebrand the Software, including changing its
+      name, branding, visual design, and functionality.
+   d) Deploy the Software (or derivative works) on any number of servers
+      or environments owned or controlled by the Buyer or the Buyer's
+      clients.
+
+2. RESTRICTIONS
+
+   The Buyer may NOT:
+
+   a) Resell, sublicense, or redistribute the original, substantially
+      unmodified Software as a competing source-code template, boilerplate,
+      or starter-kit product.
+   b) Redistribute the original project files to any third party who has
+      not independently purchased or obtained a license to the Software.
+   c) Claim sole authorship of the original Software, or remove this
+      license file from redistributed copies of the unmodified source.
+   d) Use the Software in any way that infringes on trademark, patent, or
+      other intellectual property rights of third parties.
+
+3. OWNERSHIP
+
+   The original Software remains the intellectual property of its author.
+   This license conveys usage rights only; it does not transfer copyright
+   ownership of the original codebase to the Buyer. Modifications and
+   derivative works created by the Buyer are owned by the Buyer, subject
+   to the restrictions in Section 2.
+
+4. WARRANTY DISCLAIMER
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+   LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+5. TERMINATION
+
+   This license terminates automatically if the Buyer violates any of the
+   restrictions in Section 2. Upon termination, the Buyer must cease all
+   use and distribution of the original Software.
+
+6. THIRD-PARTY COMPONENTS
+
+   The Software includes open-source third-party packages (Flask, React,
+   and others listed in requirements.txt and package.json), each of which
+   is governed by its own respective license (typically MIT, BSD, or
+   similar permissive licenses). Those licenses are unaffected by this
+   document.
+
+By using the Software, the Buyer agrees to the terms of this license.
